@@ -1,9 +1,0 @@
-.\obj\inet.o: ..\lwIP\src\core\ipv4\inet.c
-.\obj\inet.o: ..\lwIP\src\include\lwip/opt.h
-.\obj\inet.o: ..\lwIP\port\include\lwipopts.h
-.\obj\inet.o: ..\lwIP\src\include\lwip/debug.h
-.\obj\inet.o: ..\lwIP\src\include\lwip/arch.h
-.\obj\inet.o: ..\lwIP\port\include\arch/cc.h
-.\obj\inet.o: ..\lwIP\port\include\arch/cpu.h
-.\obj\inet.o: D:\keilarm\ARM\RV31\INC\stdio.h
-.\obj\inet.o: ..\lwIP\src\include\ipv4\lwip/inet.h
