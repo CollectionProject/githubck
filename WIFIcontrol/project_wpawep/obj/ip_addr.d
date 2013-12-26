@@ -1,0 +1,13 @@
+.\obj\ip_addr.o: ..\lwIP\src\core\ipv4\ip_addr.c
+.\obj\ip_addr.o: ..\lwIP\src\include\lwip/opt.h
+.\obj\ip_addr.o: ..\lwIP\port\include\lwipopts.h
+.\obj\ip_addr.o: ..\lwIP\src\include\lwip/debug.h
+.\obj\ip_addr.o: ..\lwIP\src\include\lwip/arch.h
+.\obj\ip_addr.o: ..\lwIP\port\include\arch/cc.h
+.\obj\ip_addr.o: ..\lwIP\port\include\arch/cpu.h
+.\obj\ip_addr.o: D:\keilarm\ARM\RV31\INC\stdio.h
+.\obj\ip_addr.o: ..\lwIP\src\include\ipv4\lwip/ip_addr.h
+.\obj\ip_addr.o: ..\lwIP\src\include\ipv4\lwip/inet.h
+.\obj\ip_addr.o: ..\lwIP\src\include\lwip/netif.h
+.\obj\ip_addr.o: ..\lwIP\src\include\lwip/err.h
+.\obj\ip_addr.o: ..\lwIP\src\include\lwip/pbuf.h

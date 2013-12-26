@@ -1,0 +1,14 @@
+.\obj\inet_chksum.o: ..\lwIP\src\core\ipv4\inet_chksum.c
+.\obj\inet_chksum.o: ..\lwIP\src\include\lwip/opt.h
+.\obj\inet_chksum.o: ..\lwIP\port\include\lwipopts.h
+.\obj\inet_chksum.o: ..\lwIP\src\include\lwip/debug.h
+.\obj\inet_chksum.o: ..\lwIP\src\include\lwip/arch.h
+.\obj\inet_chksum.o: ..\lwIP\port\include\arch/cc.h
+.\obj\inet_chksum.o: ..\lwIP\port\include\arch/cpu.h
+.\obj\inet_chksum.o: D:\keilarm\ARM\RV31\INC\stdio.h
+.\obj\inet_chksum.o: ..\lwIP\src\include\ipv4\lwip/inet_chksum.h
+.\obj\inet_chksum.o: ..\lwIP\src\include\lwip/pbuf.h
+.\obj\inet_chksum.o: ..\lwIP\src\include\lwip/err.h
+.\obj\inet_chksum.o: ..\lwIP\src\include\ipv4\lwip/ip_addr.h
+.\obj\inet_chksum.o: ..\lwIP\src\include\ipv4\lwip/inet.h
+.\obj\inet_chksum.o: D:\keilarm\ARM\RV31\INC\stddef.h

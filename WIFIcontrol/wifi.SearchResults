@@ -1,0 +1,2 @@
+---- recv MVMS_EVENT Matches (1 in 1 files) ----
+If_sdio.c (marvel\driver\src):        printf("recv MVMS_EVENT !!!\r\n");

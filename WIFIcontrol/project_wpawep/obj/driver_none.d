@@ -1,0 +1,16 @@
+.\obj\driver_none.o: ..\wpa_supplicant-0.7.3\wpa_supplicant-0.7.3\src\drivers\driver_none.c
+.\obj\driver_none.o: ..\wpa_supplicant-0.7.3\wpa_supplicant-0.7.3\src\utils\includes.h
+.\obj\driver_none.o: ..\wpa_supplicant-0.7.3\wpa_supplicant-0.7.3\src\utils\build_config.h
+.\obj\driver_none.o: D:\keilarm\ARM\RV31\INC\stdlib.h
+.\obj\driver_none.o: D:\keilarm\ARM\RV31\INC\stdio.h
+.\obj\driver_none.o: D:\keilarm\ARM\RV31\INC\stdarg.h
+.\obj\driver_none.o: D:\keilarm\ARM\RV31\INC\string.h
+.\obj\driver_none.o: D:\keilarm\ARM\RV31\INC\ctype.h
+.\obj\driver_none.o: D:\keilarm\ARM\RV31\INC\time.h
+.\obj\driver_none.o: ..\wpa_supplicant-0.7.3\wpa_supplicant-0.7.3\wpa_supp_linux_plat\byteswap.h
+.\obj\driver_none.o: ..\wpa_supplicant-0.7.3\wpa_supplicant-0.7.3\src\utils\wpa_common.h
+.\obj\driver_none.o: ..\wpa_supplicant-0.7.3\wpa_supplicant-0.7.3\src\utils\os.h
+.\obj\driver_none.o: ..\wpa_supplicant-0.7.3\wpa_supplicant-0.7.3\src\utils\wpa_debug.h
+.\obj\driver_none.o: ..\wpa_supplicant-0.7.3\wpa_supplicant-0.7.3\src\utils\wpabuf.h
+.\obj\driver_none.o: ..\wpa_supplicant-0.7.3\wpa_supplicant-0.7.3\src\drivers\driver.h
+.\obj\driver_none.o: ..\wpa_supplicant-0.7.3\wpa_supplicant-0.7.3\src\common/defs.h

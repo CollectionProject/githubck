@@ -1,0 +1,15 @@
+.\obj\mem.o: ..\lwIP\src\core\mem.c
+.\obj\mem.o: ..\lwIP\src\include\lwip/opt.h
+.\obj\mem.o: ..\lwIP\port\include\lwipopts.h
+.\obj\mem.o: ..\lwIP\src\include\lwip/debug.h
+.\obj\mem.o: ..\lwIP\src\include\lwip/arch.h
+.\obj\mem.o: ..\lwIP\port\include\arch/cc.h
+.\obj\mem.o: ..\lwIP\port\include\arch/cpu.h
+.\obj\mem.o: D:\keilarm\ARM\RV31\INC\stdio.h
+.\obj\mem.o: ..\lwIP\src\include\lwip/def.h
+.\obj\mem.o: ..\lwIP\src\include\lwip/mem.h
+.\obj\mem.o: ..\lwIP\src\include\lwip/sys.h
+.\obj\mem.o: ..\lwIP\src\include\lwip/stats.h
+.\obj\mem.o: ..\lwIP\src\include\lwip/memp.h
+.\obj\mem.o: ..\lwIP\src\include\lwip/memp_std.h
+.\obj\mem.o: D:\keilarm\ARM\RV31\INC\string.h

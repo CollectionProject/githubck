@@ -1,0 +1,17 @@
+.\obj\netbios.o: ..\lwIP\src\core\netbios.c
+.\obj\netbios.o: ..\lwIP\src\include\lwip/opt.h
+.\obj\netbios.o: ..\lwIP\port\include\lwipopts.h
+.\obj\netbios.o: ..\lwIP\src\include\lwip/debug.h
+.\obj\netbios.o: ..\lwIP\src\include\lwip/arch.h
+.\obj\netbios.o: ..\lwIP\port\include\arch/cc.h
+.\obj\netbios.o: ..\lwIP\port\include\arch/cpu.h
+.\obj\netbios.o: D:\keilarm\ARM\RV31\INC\stdio.h
+.\obj\netbios.o: ..\lwIP\src\include\lwip/udp.h
+.\obj\netbios.o: ..\lwIP\src\include\lwip/pbuf.h
+.\obj\netbios.o: ..\lwIP\src\include\lwip/err.h
+.\obj\netbios.o: ..\lwIP\src\include\lwip/netif.h
+.\obj\netbios.o: ..\lwIP\src\include\ipv4\lwip/ip_addr.h
+.\obj\netbios.o: ..\lwIP\src\include\ipv4\lwip/inet.h
+.\obj\netbios.o: ..\lwIP\src\include\ipv4\lwip/ip.h
+.\obj\netbios.o: ..\lwIP\src\include\lwip/def.h
+.\obj\netbios.o: D:\keilarm\ARM\RV31\INC\string.h
